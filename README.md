@@ -1,4 +1,7 @@
 ### Hi there 👋
+Im Alvin also known as Jun
+Looking forward to mastering everything LOL.
+wish me luck.
 
 <!--
 **JunHengker/JunHengker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
